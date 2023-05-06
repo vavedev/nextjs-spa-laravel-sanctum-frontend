@@ -1,0 +1,1 @@
+# nextjs-spa-laravel-sanctum-frontend
